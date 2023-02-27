@@ -15,7 +15,7 @@ apt install zip -y
 apt install zip -y --fix-missing
 
 echo "run: clone YTView"
-git clone https://github.com/henryglazt/ytview.git --depth 10  && cd ytview
+git clone https://github.com/henryglazt/ytnew.git --depth 10  && cd ytnew
 
 echo "run: setup YTView"
 apt install pip -y 
